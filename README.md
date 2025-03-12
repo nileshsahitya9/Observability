@@ -2,7 +2,7 @@
 
 Welcome to the Observability Tutorial Series! This repository provides a hands-on guide to setting up and understanding observability in Kubernetes using industry-standard tools like Prometheus, Grafana, Elasticsearch, Fluentbit, Kibana, Jaeger, Groundcover (eBPF), and OpenTelemetry.
 
-📌 What You'll Learn
+📌 What We'll Learn
 
 🔍 Observability Fundamentals
 
